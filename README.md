@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtuffailshehzad
-- 👀 I’m interested in web developmenmt
-- 🌱 I’m currently learning web development
+- 👀 I’m interested to learn new incoming features of Laravel Php and other technologies.
+- 🌱 I’m  web and portal developer.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me my username @mtuffailshehzad
 
